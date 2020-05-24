@@ -8,3 +8,8 @@
 body {
   background: white;
 }
+
+.divborder {
+  border-style: outset;
+  border-width: medium;
+}
